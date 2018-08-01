@@ -6,7 +6,7 @@ and Sample-B values in multiply rows, same number of columns.
 >   Sample-A and -B) as input and printing all Relative-RMSD results for rows
 >   and the final result (ans =) to Command Window.
 # RMSD-based fluctuating-portion searching in a curve
-With the given **XY coordinate values** for a dotted line, plot the dots in a
+With the given **XY coordinate values for a dotted curve**, the code plots the dots in a
 Cartesian coordinate system and find the portion moving up and down around a
 level by analyzing RMSD. The reference lines equally divide the y-axis to
 subject the dots to *n* groups. For a group, the dotted segments with the two
